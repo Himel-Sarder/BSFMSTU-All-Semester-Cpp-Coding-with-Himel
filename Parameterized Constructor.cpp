@@ -10,11 +10,9 @@ class SUM{
     int a;
     int b;
     public:
-    //SUM(int r,int s):a(r),b(s){}
-    SUM(int x,int y){
-        a = x;
-        b = y;
-    }
+
+    SUM(int r,int s):a(r),b(s){}
+
     void print(){
         cout << a + b << endl;
     }
