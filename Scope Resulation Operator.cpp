@@ -1,5 +1,5 @@
 /*Scope resulation operator(::) in C++ Language is used to define
-a function outside a class or when we wanr to use a global variable
+a function outside a class or when we want to use a global variable
 but also has a local variable with the same name....*/
 
 //Example :
@@ -19,3 +19,5 @@ int main(){
     return 0;
 }
 
+//Himel Sarder
+//Dept. Of CSE, BSFMSTU
