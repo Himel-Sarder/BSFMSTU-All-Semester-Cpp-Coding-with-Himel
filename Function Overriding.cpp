@@ -42,10 +42,6 @@ int main(){
     obj.age=21;
     obj.university="BSFMSTU";
 
-    //obj.print1);
-    //obj.print2();
-    //obj.print3();
-    //obj.print();
     obj.print();
     return 0;
 }
