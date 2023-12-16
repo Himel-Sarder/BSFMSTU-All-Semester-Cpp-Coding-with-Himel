@@ -1,3 +1,4 @@
+//A derived class with multiple base class is called multiple inheritance
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -46,3 +47,5 @@ int main(){
     obj.print();
     return 0;
 }
+//Himel Sarder
+//Dept. Of CSE, BSFMSTU
